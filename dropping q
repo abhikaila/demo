@@ -1,0 +1,61 @@
+[33mcommit fb75e3763082529c336a920f4ad0995729e549ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 540a49d b309207
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Tue May 12 15:50:48 2020 +0530
+
+    Merge branch 'feature2'
+
+[33mcommit 540a49daa9856312d799b8167d8dcb67443f5b8d[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Tue May 12 15:42:04 2020 +0530
+
+    add feature 3
+
+[33mcommit b309207177e8054f3648d5830eb7609c93ea5cf9[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Tue May 12 15:40:08 2020 +0530
+
+    add feature 2
+
+[33mcommit dbf26181b914c8422cfc5ce6420199e081f44fea[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Tue May 12 15:33:38 2020 +0530
+
+    add feature 1
+
+[33mcommit 70b307a1a5cae82005ce5b311b53c8815ef42066[m
+Merge: f386046 34ef049
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Mon May 11 22:06:56 2020 +0530
+
+    Merge branch 'feature3'
+
+[33mcommit 34ef04981b92ddd396324e01c640ca67b4b1354d[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Mon May 11 22:06:02 2020 +0530
+
+    add feature 3
+
+[33mcommit f386046b7bab0c76b5a214e2147475e338f07d6d[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Mon May 11 21:58:44 2020 +0530
+
+    add feature 2
+
+[33mcommit 21e0614066be4299898108ac35987b92d368c9e1[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Mon May 11 14:48:47 2020 +0530
+
+    add feature 1
+
+[33mcommit 8e083481833c6c223468ea6e7403d3c95b7d5441[m
+Author: ak2510 <17it040@charusat.edu.in>
+Date:   Thu Apr 16 15:20:40 2020 +0530
+
+    First commit
+
+[33mcommit 0e85ca01ce0b80fc1b962e3ee6bbafedbe37108c[m
+Author: abhikaila <40866663+abhikaila@users.noreply.github.com>
+Date:   Thu Apr 16 15:11:16 2020 +0530
+
+    Initial commit
